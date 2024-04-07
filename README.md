@@ -11,11 +11,11 @@
 ###
 
 <p align="left">✨Creating errors...<br>📚 At the moment I am studying in SPbIEU <br>at the faculty <br>09.02.07 "Information systems and programming" <br> I work at 
-  <blockquote>this could be your company.</blockquote>blockquote></p>
+  <blockquote>this could be your company.</blockquote></p>
 
 
 
-<p align="left">✨Создание ошибок...<br>📚 В данный момент я учусь в СПбИЭУ <br>на факультете <br>09.02.07 "Информационные системы и программирование"<br>Работаю в <blockquote>здесь могла быть ваша компания</blockquote>blockquote></p>
+<p align="left">✨Создание ошибок...<br>📚 В данный момент я учусь в СПбИЭУ <br>на факультете <br>09.02.07 "Информационные системы и программирование"<br>Работаю в <blockquote>здесь могла быть ваша компания</blockquote></p>
 
 ###
 
