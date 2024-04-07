@@ -1,25 +1,21 @@
-<h1 align="left">Hey 👋 What's up?  <br> Привет 👋 Как  дела?</h1>
+<h1 align="left">Hey 👋 What's up? </h1>
 
 ###
 
-<p align="left">My name is Andrey and I'm a Russia. <br> Меня зовут Андрей и я из России.</p>
+<p align="left">My name is Andrey and I'm a Russia. </p>
 
 ###
 
-<h2 align="left">About me <br> О себе </h2>
+<h2 align="left">About me </h2>
 
 ###
 
 <p align="left">✨Creating errors...<br>📚 At the moment I am studying in SPbIEU <br>at the faculty <br>09.02.07 "Information systems and programming" <br> I work at 
   <blockquote>this could be your company.</blockquote></p>
 
-
-
-<p align="left">✨Создание ошибок...<br>📚 В данный момент я учусь в СПбИЭУ <br>на факультете <br>09.02.07 "Информационные системы и программирование"<br>Работаю в <blockquote>здесь могла быть ваша компания</blockquote></p>
-
 ###
 
-<h2 align="left">I code  with <br> Я кодирую с помощью</h2>
+<h2 align="left">I code  with </h2>
 
 ###
 
