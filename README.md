@@ -10,8 +10,8 @@
 
 ###
 
-<p align="left">✨Creating errors ...<br>📚 I'm currently learning at SPbIEU <br>at SPbIEU <br>09.02.07 "Information systems and programming"</p>
-<p align="left">✨Создание ошибок...<br>📚 В данный момент я учусь в СПбИЭУ <br>на факультете СПбИЭУ <br>09.02.07 "Информационные системы и программирование"</p>
+<p align="left">✨Creating errors...<br>📚 At the moment I am studying in SPbIEU <br>at the faculty <br>09.02.07 "Information systems and programming"</p>
+<p align="left">✨Создание ошибок...<br>📚 В данный момент я учусь в СПбИЭУ <br>на факультете <br>09.02.07 "Информационные системы и программирование"</p>
 
 ###
 
