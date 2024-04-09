@@ -51,7 +51,7 @@
 <div align="left">
 
   <a href="https://vk.com/t19rsap"><img src="https://img.shields.io/badge/-Vkontakte-003f5c?style=for-the-badge&logo=Vke" height="35" alt="vk"  /></a>
-  <a href="DS.html"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
+  <a href="https://discord.gg/Bxb3gEK3SV"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  /></a>
   <a href="Gm.html"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="GMAIL"  /></a>
   <a href="https://web.telegram.org/k/#@T19RrRr"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-squeare&logo=telegram&logoColor=white" height="35" alt="TELEGRAM"  /></a>
 </div>
