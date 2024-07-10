@@ -10,12 +10,12 @@
 
 ###
 
-<p align="left">✨Creating errors...<br>📚 At the moment I am studying in SPbIEU <br>at the faculty <br>09.02.07 "Information systems and programming" <br> I work at 
+<p align="left">✨Creating errors...<br>📚 At the moment I am studying in <a href="https://docs.google.com/document/d/1vQZZhrqOyTx2IMdYgBO4BwNzamvpfTtwk9rzmYZP-_0/edit">SPbIEU</a> <br>at the faculty <br>09.02.07 "Information systems and programming" <br> I work at 
   <blockquote>this could be your company.</blockquote></p>
-<a>https://docs.google.com/document/d/1vQZZhrqOyTx2IMdYgBO4BwNzamvpfTtwk9rzmYZP-_0/edit</a>
+
 ###
 
-<h2 align="left">I code  with </h2>
+<h2 align="left">I code with </h2>
 
 ###
 
